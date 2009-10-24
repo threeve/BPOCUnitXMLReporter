@@ -5,7 +5,7 @@
 //
 //  Copyright 2009 Jason Foreman. Some rights reserved.
 //  This code is released under a Creative Commons license:
-//  http://creativecommons.org/licenses/by/3.0/
+//  http://creativecommons.org/licenses/by-sa/3.0/
 //
 
 
