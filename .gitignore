@@ -1,0 +1,12 @@
+
+# standard Xcode and Mac cruft
+build/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+.DS_Store
+
+# test output file
+ocunit.xml
+
